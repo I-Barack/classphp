@@ -1,0 +1,22 @@
+@media(max-width: 700px) {
+    .one{
+        width: 100%;
+
+    }
+    .two{
+        display: none;
+    }
+    .mobile{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.818);
+        padding-left: 10px;
+        padding-right: 10px;
+        height: 70px;
+        position: sticky;
+        top: 10px;
+    }
+}
